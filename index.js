@@ -29,7 +29,7 @@ submit.addEventListener("submit", (e) => {
         SecureToken: "ec51daf5-c841-4529-9ee6-5f23e6b4d663",
         To: 'sarath4smart@gmail.com',
         From: "sarath4smart@gmail.com",
-        Subject: "Testing email from" + email.value,
+        Subject: "Email from" + email.value,
         Body: ebody
     }).then(
         message => alert(message)
