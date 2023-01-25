@@ -666,7 +666,7 @@ footer span a:hover {
     text-decoration: underline;
 }
 
-footer .aron {
+footer .links {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -674,7 +674,7 @@ footer .aron {
 
 }
 
-footer .aron ul {
+footer .links ul {
     position: relative;
     top: 50%;
     left: 50%;
@@ -686,11 +686,11 @@ footer .aron ul {
     display: flex;
 }
 
-footer .aron ul li {
+footer .links ul li {
     list-style: none;
 }
 
-footer .aron ul li a {
+footer .links ul li a {
     position: relative;
     width: 40px;
     height: 40px;
@@ -706,12 +706,12 @@ footer .aron ul li a {
     transition: .5s;
 }
 
-footer .aron ul li a:hover {
+footer .links ul li a:hover {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     text-decoration: none;
 }
 
-footer .aron ul li a .fab {
+footer .links ul li a .fab {
     width: 100%;
     height: 100%;
     display: block;
@@ -724,7 +724,7 @@ footer .aron ul li a .fab {
     transition: .5s;
 }
 
-footer .aron ul li:nth-child(1) a:hover .fab {
+footer .links ul li:nth-child(1) a:hover .fab {
     color: #3b5998;
 }
 
@@ -732,15 +732,15 @@ ul li:nth-child(2) a:hover .fab {
     color: #00aced;
 }
 
-footer .aron ul li:nth-child(3) a:hover .fab {
+footer .links ul li:nth-child(3) a:hover .fab {
     color: #dd4b39;
 }
 
-footer .aron ul li:nth-child(4) a:hover .fab {
+footer .links ul li:nth-child(4) a:hover .fab {
     color: #007bb6;
 }
 
-footer .aron ul li:nth-child(5) a:hover .fab {
+footer .links ul li:nth-child(5) a:hover .fab {
     color: #e4405f;
 }
 
