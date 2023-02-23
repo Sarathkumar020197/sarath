@@ -146,7 +146,7 @@ html {
 /*home section start*/
 .home {
     display: flex;
-    background: url("images/banner.jpg") no-repeat center center;
+    background: url("images/DP.jpg") no-repeat center center;
     background-size: cover;
     background-position: top center;
     height: 100vh;
